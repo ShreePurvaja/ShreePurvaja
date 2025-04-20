@@ -1,4 +1,4 @@
-<h1 align="center">☕ Let's turn Coffee into Code Hi!👋 Purvaja Here....Welcome to my space🔭</h1>
+<h1 align="center">☕ Let's turn Coffee into Code -  Hi !👋 Purvaja Here</h1>
 <h3 align="center">🚀 Flutter Developer | Data Science Enthusiast | 🧠 Exploring Machine learning models</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreepurvaja&label=Profile%20views&color=0e75b6&style=flat" alt="shreepurvaja" /> </p>
