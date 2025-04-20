@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/ShreePurvaja/gif-file/blob/main/coding%20girl.gif?raw=true" width="700" alt="coding-girl-gif"/>
+  <img src="https://github.com/ShreePurvaja/gif-file/blob/main/coding%20girl.gif?raw=true" width="750" alt="coding-girl-gif"/>
 </p>
 
 ---
@@ -62,7 +62,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreePurvaja&theme=github&hide_border=false&border_radius=10&area=true&bg_color=e6f7ff&line=00008b&point=000000&color=00008b" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreePurvaja&theme=github&hide_border=false&border_radius=10&area=true&area_color=0000ff&area_opacity=0.6&bg_color=e6f7ff&line=00008b&point=000000&color=00008b" />
 </p>
 
 ---
