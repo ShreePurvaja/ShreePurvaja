@@ -35,8 +35,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreepurvaja&" alt="shreepurvaja" /></p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreepurvaja&theme=github&hide_border=false&border_radius=10&area=true&bg_color=87cefa&line=1e90ff&point=1e90ff&color=1e90ff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreePurvaja&theme=github&hide_border=false&border_radius=10&area=true&bg_color=e6f7ff&line=00008b&point=ffffff&color=00008b" />
 </p>
+
 
 
 
