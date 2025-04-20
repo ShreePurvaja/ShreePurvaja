@@ -49,13 +49,14 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreepurvaja&show_icons=true&locale=en&theme=tokyonight" alt="shreepurvaja" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreepurvaja&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shreepurvaja" />
-
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreepurvaja&theme=tokyonight" alt="shreepurvaja" />
 
 
 </p>
 <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreepurvaja&theme=tokyonight" alt="shreepurvaja" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreepurvaja&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shreepurvaja" />
+
+   
 </p>
 
 
