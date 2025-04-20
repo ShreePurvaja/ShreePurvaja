@@ -24,7 +24,6 @@
 
 - 👯 I’m looking to collaborate on **Machine learning and Python programming projects**
 
-
 - 👨‍💻 All of my projects are available at **https://github.com/ShreePurvaja**
 
 - ⚡ Fun fact **🌑I’m a night owl who gets bright ideas during the dark nights**
@@ -66,6 +65,9 @@
 </p>
 
 ---
+## 💭Quote for the day :
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=grow_out_in&layout=default&font=default&quoteType=quote-for-the-day&bgColor=black&borderColor=skyblue)
+
 
 
 
