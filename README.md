@@ -2,7 +2,7 @@
 
 ##
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=3500&pause=700&color=9CFCFF&center=true&vCenter=true&width=435&lines=Hey+All+!%F0%9F%91%8B+Purvaja+Here;Welcome+to+my+space+%F0%9F%94%AD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=3500&pause=700&color=9CFCFF&center=true&vCenter=true&width=435&lines=Hey+All+!%F0%9F%91%8B+Purvaja+Here;Welcome+to+my+workspace+%F0%9F%94%AD" alt="Typing SVG" /></a>
 </p>
 <h3 align="center">🚀 Flutter Developer | Data Science Enthusiast | 🧠 Exploring Machine learning models</h3>
 
