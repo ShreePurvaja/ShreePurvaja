@@ -65,8 +65,19 @@
 </p>
 
 ---
-## 💭Quote for the day :
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=grow_out_in&layout=default&font=default&quoteType=quote-for-the-day&bgColor=black&borderColor=skyblue)
+## 💭Random Quote:
+
+<h2>  
+  
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Without%20data%2C%20you%E2%80%99re%20just%20another%20person%20with%20a%20%E2%80%98great%20idea.%E2%80%99&type=horizontal&author=W.%20Edwards%20Deming&border=true&theme=tokyonight)](https://github.com/ShreePurvaja)
+
+
+</h2>
+
+
+
+
+
 
 
 
