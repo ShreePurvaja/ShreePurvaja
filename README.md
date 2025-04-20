@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/ShreePurvaja/gif-file/blob/main/coding%20girl.gif?raw=true" width="800" alt="coding-girl-gif"/>
+  <img src="https://github.com/ShreePurvaja/gif-file/blob/main/coding%20girl.gif?raw=true" width="700" alt="coding-girl-gif"/>
 </p>
 
 ---
@@ -49,7 +49,7 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreepurvaja&show_icons=true&locale=en&theme=tokyonight" alt="shreepurvaja" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreepurvaja&show_icons=true&locale=en&layout=compact&theme=tokyonight&width=420" width="320" alt="Top Languages" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreepurvaja&show_icons=true&locale=en&layout=compact&theme=tokyonight&width=420" width="350" alt="Top Languages" />
 
 
 
