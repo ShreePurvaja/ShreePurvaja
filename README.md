@@ -1,6 +1,6 @@
-<h1 align="center">Hey All !👋 Purvaja Here</h1>
-  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreepurvaja&label=Profile%20views&color=0e75b6&style=flat" alt="shreepurvaja" /> </p>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=9CFCFF&center=true&vCenter=true&width=435&lines=Hey+All+!%F0%9F%91%8B+Purvaja+Here;Welcome+to+my+space+%F0%9F%94%AD" alt="Typing SVG" /></a>
   
 <h3 align="center">🚀 Flutter Developer | Data Science Enthusiast | 🧠 Exploring Machine learning models</h3>
 
