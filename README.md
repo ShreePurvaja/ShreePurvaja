@@ -1,8 +1,10 @@
-<h1 Hey All !👋 Purvaja Here</h1>
+<h1 align="center">Hey All !👋 Purvaja Here</h1>
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreepurvaja&label=Profile%20views&color=0e75b6&style=flat" alt="shreepurvaja" /> </p>
   
 <h3 align="center">🚀 Flutter Developer | Data Science Enthusiast | 🧠 Exploring Machine learning models</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreepurvaja&label=Profile%20views&color=0e75b6&style=flat" alt="shreepurvaja" /> </p>
+
 
 <p align="center">
   <img src="https://github.com/ShreePurvaja/gif-file/blob/main/coding%20girl.gif?raw=true" width="350" alt="coding-girl-gif"/>
