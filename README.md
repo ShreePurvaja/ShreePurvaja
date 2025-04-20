@@ -1,5 +1,10 @@
 <h1 Hey All !👋 Purvaja Here</h1>
+  
 <h3 align="center">🚀 Flutter Developer | Data Science Enthusiast | 🧠 Exploring Machine learning models</h3>
+
+<p align="center">
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://github.com/ShreePurvaja/gif-file/blob/main/coding%20girl.gif)" width="350" alt="coding-gif"/>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreepurvaja&label=Profile%20views&color=0e75b6&style=flat" alt="shreepurvaja" /> </p>
 
