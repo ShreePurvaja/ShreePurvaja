@@ -49,7 +49,7 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreepurvaja&show_icons=true&locale=en&theme=tokyonight" alt="shreepurvaja" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreepurvaja&show_icons=true&locale=en&layout=compact&theme=tokyonight&width=420" alt="shreepurvaja" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreepurvaja&show_icons=true&locale=en&layout=compact&theme=tokyonight&width=420" width="320" alt="Top Languages" />
 
 
 
