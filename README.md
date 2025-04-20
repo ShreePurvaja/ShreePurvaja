@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/ShreePurvaja/gif-file/blob/main/coding%20girl.gif?raw=true" width="750" alt="coding-girl-gif"/>
+  <img src="https://github.com/ShreePurvaja/gif-file/blob/main/coding%20girl.gif?raw=true" width="730" alt="coding-girl-gif"/>
 </p>
 
 ---
