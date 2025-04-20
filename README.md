@@ -2,12 +2,14 @@
   
 <h3 align="center">🚀 Flutter Developer | Data Science Enthusiast | 🧠 Exploring Machine learning models</h3>
 
-<p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://github.com/ShreePurvaja/gif-file/blob/main/coding girl.gif)" width="350" alt="coding-gif"/>
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreepurvaja&label=Profile%20views&color=0e75b6&style=flat" alt="shreepurvaja" /> </p>
 
+<p align="center">
+  <img src="https://github.com/ShreePurvaja/gif-file/blob/main/coding%20girl.gif?raw=true" width="350" alt="coding-girl-gif"/>
+</p>
+
+
+---
 - 🔭 I’m currently working on **Mobile App Development using Flutter**
 
 - 🤝 I’m looking for help with **Building Scalable apps integrating AI/ML models**
@@ -16,7 +18,6 @@
 
 - 👯 I’m looking to collaborate on **Machine learning and Python programming projects**
 
-- 📫 Reach me out through [shreepurvaja@gmail.com](shreepurvaja@gmail.com)
 
 - 👨‍💻 All of my projects are available at **https://github.com/ShreePurvaja**
 
