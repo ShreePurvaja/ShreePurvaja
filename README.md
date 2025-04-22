@@ -24,7 +24,7 @@
 
 - 👯 I’m looking to collaborate on **Machine learning and Python programming projects**
 
-- 👨‍💻 All of my projects are available at **https://github.com/ShreePurvaja**
+- 👨‍💻 All of my projects are available at **https://github.com/ShreePurvaja?tab=repositories**
 
 - ⚡ Fun fact **🌑I’m a night owl who gets bright ideas during the dark nights**
 
