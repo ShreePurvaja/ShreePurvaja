@@ -43,7 +43,14 @@
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=flutter,firebase,mysql,html,css,java,pandas,matplotlib,seaborn,git,github,tidb,sqlserver,scikitlearn,selenium,&titles=true)
 
+## 🏆Achievements & Badges
+
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=gowtham-dd&theme=radical&margin-w=10&margin-h=15&row=2&column=3" alt="GitHub Trophies" />
+</p>
+
 ---
+
 ## 📈GitHub Stats :
 
 <p align="center">
