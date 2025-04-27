@@ -43,6 +43,8 @@
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=flutter,firebase,mysql,html,css,java,pandas,matplotlib,seaborn,git,github,tidb,sqlserver,scikitlearn,selenium,&titles=true)
 
+---
+
 ## 🏆Achievements & Badges
 
 <p align="center">
