@@ -41,7 +41,7 @@
 
 ## 🛠️TechStack:
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=flutter,firebase,mysql,html,css,java,pandas,matplotlib,seaborn,git,github,tidb,sqlserver,scikitlearn,selenium,&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=flutter,firebase,mysql,html,css,java,python,pandas,matplotlib,seaborn,git,github,tidb,sqlserver,scikitlearn,selenium,&titles=true)
 
 ---
 
